@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ValidationPluginConfiguration">
+    <option name="regexPatterns">
+      <map>
+        <entry key="123" value="12313" />
+        <entry key="邮件" value="123" />
+        <entry key="阿斯顿" value="123" />
+      </map>
+    </option>
+    <option name="validationMethod" value="APACHE_COMMONS" />
+  </component>
+</project>

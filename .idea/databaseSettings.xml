@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DatabaseSettings">
+    <option name="annotationOption" value="JPA annotations" />
+    <option name="baseClass" value="ConfigInfo" />
+    <option name="database" value="gen" />
+    <option name="excludedFields">
+      <list>
+        <option value="groupId" />
+        <option value="dataId" />
+      </list>
+    </option>
+    <option name="password" value="luweijie06" />
+    <option name="typeMappings">
+      <map>
+        <entry key="CHAR" value="String" />
+        <entry key="TEXT" value="String" />
+        <entry key="VARCHAR" value="String" />
+      </map>
+    </option>
+    <option name="username" value="root" />
+  </component>
+</project>

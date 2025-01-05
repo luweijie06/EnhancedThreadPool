@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodeSnippets">
+    <option name="groupedSnippets">
+      <map>
+        <entry key="123">
+          <value>
+            <map>
+              <entry key="123" value="  private String id;&#10;    private Integer dataId;" />
+            </map>
+          </value>
+        </entry>
+        <entry key="132">
+          <value>
+            <map>
+              <entry key="123" value="  private String id;&#10;    private Integer dataId;" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
