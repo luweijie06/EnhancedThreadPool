@@ -9,8 +9,6 @@ import com.dev.gear.concurrent.event.AlertEventListener;
 import com.dev.gear.concurrent.event.AlertEventPublisher;
 import com.dev.gear.concurrent.event.AlertMessageType;
 import com.dev.gear.concurrent.persistence.NoOpPersistenceStrategy;
-import domin.config.*;
-
 import java.util.concurrent.TimeUnit;
 import java.util.logging.Logger;
 
